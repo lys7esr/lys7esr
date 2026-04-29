@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 👉 About Me
+###  About Me
 
 I'm a Computer Science student, currently exploring different areas in tech.
 What excites me the most is solving real-world problems and building things that make everyday tasks simpler — or even creating small, fun improvements to existing solutions :)
