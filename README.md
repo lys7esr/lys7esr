@@ -29,7 +29,7 @@ What excites me the most is solving real-world problems and building things that
 
 * Languages: C, Java, Python, SQL
 * Web: HTML, CSS, JavaScript, React, Node.js
-* Tools: Git, GitHub, VS Code
+* Tools: Git, GitHub, Linux
 
 
 ### 📈 Currently Working On
